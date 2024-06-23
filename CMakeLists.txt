@@ -1,0 +1,2 @@
+add_subdirectory(CMSIS_Core_CMake)
+add_subdirectory(MIMXRT1062_Lib)

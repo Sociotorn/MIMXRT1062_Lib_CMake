@@ -1,0 +1,3 @@
+[submodule "CMSIS_Core_CMake"]
+	path = CMSIS_Core_CMake
+	url = https://github.com/Sociotorn/CMSIS_Core_CMake.git
